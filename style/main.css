@@ -1,4 +1,11 @@
+h1 {
+	font-family: tahoma;
+}
+
+
+
 body{
-	background: violet;
+	background: url("../images/sam.jpg");
 	font-family: arial;
 }
+
